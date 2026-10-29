@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sangeeth-kumar-engineer.cherrybat15.chatgpt.site/sitemap.xml
+
